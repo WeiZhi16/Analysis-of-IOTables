@@ -10,4 +10,4 @@ $$  x_{ij}\ \triangleq\ i產業在這個年度投入了多少產品(換算成金
 
 在這份報告中，我們把各個產業依照[台經院產經資料庫](https://tie.tier.org.tw/db/industry_definition/index.aspx)的分類，分成26個產業。
 
-
+做好這些準備之後，我們要來計算70年~105年"產業關聯程度表"
