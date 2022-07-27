@@ -1,6 +1,6 @@
 # Introduction
 
-### 什麼是產業關聯程度表
+### 什麼是產業關聯表(IOTable)
 
 [行政院主計總處](https://www.stat.gov.tw/ct.asp?xItem=28535&ctNode=671)
 
