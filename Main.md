@@ -1,6 +1,6 @@
 # Introduction
 
-## 什麼是產業關聯表(IOTable)?
+## 什麼是產業關聯表(IO Table)?
 
 我們可以從[行政院主計總處-產業關聯表](https://www.stat.gov.tw/ct.asp?xItem=28535&ctNode=671)得到像這樣的表格，其中每一個數字的定義如下:
 
